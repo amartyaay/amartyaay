@@ -1,7 +1,7 @@
 
 <h1 align="center">Hi, I'm Amartya Ayushi <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 30px></h1>
 <h5 align="center">BITS Pilani</h3>
-<h2><p><center><img src = "https://media0.giphy.com/media/KDDpcKigbfFpnejZs6/giphy.gif?cid=ecf05e47oy6f4zjs8g1qoiystc56cu7r9tb8a1fe76e05oty&rid=giphy.gif" width = 100px></center></p></h2>
+<h2><p align="center"><img src = "https://media0.giphy.com/media/KDDpcKigbfFpnejZs6/giphy.gif?cid=ecf05e47oy6f4zjs8g1qoiystc56cu7r9tb8a1fe76e05oty&rid=giphy.gif" width = 100px></p></h2>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=amartyaay&label=Profile%20views&color=0e75b6&style=flat" alt="amartyaay" />
 <br>
