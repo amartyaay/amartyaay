@@ -6,7 +6,7 @@
 
 <p align="left"> <a href="https://twitter.com/ayushiamartya" target="blank"><img src="https://img.shields.io/twitter/follow/ayushiamartya?logo=twitter&style=for-the-badge" alt="ayushiamartya" /></a> </p>
 
-<h2 align="left">Connect with me:</h2>
+<h2 align="left">Connect with me: <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px"></h2>
 <p align="left">
 <a href="https://dev.to/amartyaay" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="amartyaay" height="30" width="40" /></a>
 <a href="https://twitter.com/ayushiamartya" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ayushiamartya" height="30" width="40" /></a>
