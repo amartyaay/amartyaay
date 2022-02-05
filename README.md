@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=amartyaay&label=Profile%20views&color=0e75b6&style=flat" alt="amartyaay" />
 <br>
-  [![Github](https://img.shields.io/github/followers/amartyaay?label=Follow&style=social)](https://github.com/amartyaay)
+  <img src="https://img.shields.io/github/followers/amartyaay?label=Follow&style=social" alt="followers" />
 </p>
 
 <p align="left"> <a href="https://twitter.com/ayushiamartya" target="blank"><img src="https://img.shields.io/twitter/follow/ayushiamartya?logo=twitter&style=for-the-badge" alt="ayushiamartya" /></a> </p>
