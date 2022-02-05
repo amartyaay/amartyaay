@@ -30,7 +30,7 @@
 <br>
 <br>
   
-[![Amartya's GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=amartyaay&theme=tokyonight)](https://git.io/praveenscience)
+[![Amartya's GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=amartyaay&theme=tokyonight)](https://github.com/amartyaay)
 
 | ![Amartya's github stats](https://github-readme-stats.vercel.app/api?username=amartyaay&show_icons=true&theme=tokyonight) | ![Amartya GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=amartyaay&theme=tokyonight) |
 | --- | --- |
