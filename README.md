@@ -1,8 +1,11 @@
 
 <h1 align="center">Hi, I'm Amartya Ayushi <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 30px></h1>
-<h3 align="center">BITS Pilani</h3>
+<h5 align="center">BITS Pilani</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=amartyaay&label=Profile%20views&color=0e75b6&style=flat" alt="amartyaay" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=amartyaay&label=Profile%20views&color=0e75b6&style=flat" alt="amartyaay" />
+<br>
+  [![Github](https://img.shields.io/github/followers/amartyaay?label=Follow&style=social)](https://github.com/amartyaay)
+</p>
 
 <p align="left"> <a href="https://twitter.com/ayushiamartya" target="blank"><img src="https://img.shields.io/twitter/follow/ayushiamartya?logo=twitter&style=for-the-badge" alt="ayushiamartya" /></a> </p>
 
