@@ -7,7 +7,7 @@
   <img src="https://img.shields.io/github/followers/amartyaay?label=Follow&style=flat" alt="followers" />
 </p>
 
-<p align="left"> <a href="https://twitter.com/ayushiamartya" target="blank"><img src="https://img.shields.io/twitter/follow/ayushiamartya?logo=twitter&style=for-the-badge" alt="ayushiamartya" /></a> </p>
+<p align="left"> <a href="https://twitter.com/ayushiamartya" target="blank"><img src="https://img.shields.io/twitter/follow/ayushiamartya?logo=twitter&style=social" alt="ayushiamartya" /></a> </p>
 
 <h2 align="left">Connect with me: <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px"></h2>
 <p align="left">
