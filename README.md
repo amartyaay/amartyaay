@@ -1,5 +1,5 @@
 
-<h1 align="center">Hi, I'm Amartya Ayushi<img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 30px></h1>
+<h1 align="center">Hi, I'm Amartya Ayushi <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 30px></h1>
 <h3 align="center">BITS Pilani</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=amartyaay&label=Profile%20views&color=0e75b6&style=flat" alt="amartyaay" /> </p>
