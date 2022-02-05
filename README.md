@@ -29,7 +29,6 @@
   <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> </p>
 <br>
 <br>
-  <br>
   
 [![Amartya's GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=amartyaay&theme=tokyonight)](https://git.io/praveenscience)
 
@@ -37,5 +36,5 @@
 | --- | --- |
 | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=amartyaay&theme=tokyonight) | ![Github Stars](https://github-readme-stats.vercel.app/api?username=amartyaay&show_icons=true&locale=en&count_private=true&hide_rank=true&custom_title=My%20GitHub%20Stats&disable_animations=true&theme=tokyonight) |
 
-  <p align="center"><img src="https://readme-jokes.vercel.app/api?theme=tokyonight" /></p>
+ <p align="center"><img src="https://readme-jokes.vercel.app/api?theme=tokyonight" /></p>
 
