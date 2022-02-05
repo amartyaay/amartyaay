@@ -1,4 +1,4 @@
-### Hi there 👋
+
 <h1 align="center">Hi 👋, I'm Amartya Ayushi</h1>
 <h3 align="center">BITS Pilani</h3>
 
