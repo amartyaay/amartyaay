@@ -1,7 +1,7 @@
 
 <h1 align="center">Hi, I'm Amartya Ayushi <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 30px></h1>
 
-<p align="center"><img src = "https://media0.giphy.com/media/KDDpcKigbfFpnejZs6/giphy.gif?cid=ecf05e47oy6f4zjs8g1qoiystc56cu7r9tb8a1fe76e05oty&rid=giphy.gif" width = 250px height=250px></p>
+<p align="center"><img src = "https://media0.giphy.com/media/KDDpcKigbfFpnejZs6/giphy.gif?cid=ecf05e47oy6f4zjs8g1qoiystc56cu7r9tb8a1fe76e05oty&rid=giphy.gif" width = 200px height=200px></p>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=amartyaay&label=Profile%20views&color=0e75b6&style=flat" alt="amartyaay" />
 <br>
   <img src="https://img.shields.io/github/followers/amartyaay?label=Follow&style=flat" alt="followers" />
@@ -37,8 +37,5 @@
 | --- | --- |
 | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=amartyaay&theme=tokyonight) | ![Github Stars](https://github-readme-stats.vercel.app/api?username=amartyaay&show_icons=true&locale=en&count_private=true&hide_rank=true&custom_title=My%20GitHub%20Stats&disable_animations=true&theme=tokyonight) |
 
-![Jokes Card](https://readme-jokes.vercel.app/api?theme=tokyonight)
-
-
-<br>
+  <p align="center"><img src="https://readme-jokes.vercel.app/api?theme=tokyonight" /></p>
 
