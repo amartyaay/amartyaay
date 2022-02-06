@@ -36,6 +36,6 @@
 | --- | --- |
 | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=amartyaay&theme=tokyonight) | ![Github Stars](https://github-readme-stats.vercel.app/api?username=amartyaay&show_icons=true&locale=en&count_private=true&hide_rank=true&custom_title=My%20GitHub%20Stats&disable_animations=true&theme=tokyonight) |
 
- <p align="center"><img src="https://readme-jokes.vercel.app/api?theme=tokyonight" height="300"/>     <a href="https://github.com/techytushar/random-memer"><img src='https://random-memer.herokuapp.com/' title="Meme" alt="Please refresh the page if the meme doesn't show up." height="300"></a>
+ <p align="center"><img src="https://readme-jokes.vercel.app/api?theme=tokyonight"/>     <a href="https://github.com/techytushar/random-memer"><img src='https://random-memer.herokuapp.com/' title="Meme" alt="Please refresh the page if the meme doesn't show up." height="300"></a>
 </p>
 
