@@ -19,7 +19,7 @@
 <a href="https://www.leetcode.com/amartyaay" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="amartyaay" height="30" width="40" /></a> 
 </p>
 
-<h2 align="left">Languages and Tools:    <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width = "30px"</h2>
+<h2 align="left">Languages and Tools:    <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width = "50px"</h2>
 <p align="left">
  <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a>
   <a href="https://dart.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a>
